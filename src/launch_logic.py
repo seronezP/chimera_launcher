@@ -4,7 +4,7 @@ import threading
 from random import choice
 
 # Константы
-MINECRAFT_DIRECTORY = '/Users/stepanlukoyanov/seronez/chimera_laucnher/.minecraft'
+MINECRAFT_DIRECTORY = ''
 UUID = '1'
 
 
