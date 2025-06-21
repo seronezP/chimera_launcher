@@ -2,7 +2,7 @@
 this is a open source launcher with full (or not -_-) customization, where you can save modifications and make your own builds with them.
 
 
-![screenshoot](https://github.com/seronezP/chimera/src/images/chimerka.png)
+![screenshoot]([https://github.com/seronezP/chimera/src/images/chimerka.png](https://github.com/seronezP/chimera/blob/master/src/images/chimerka.png))
 
 HOW TO LAUNCH
 
