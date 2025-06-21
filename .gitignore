@@ -1,0 +1,12 @@
+.minecraft/assets
+.minecraft/libraries
+.minecraft/versions
+.minecraft/runtime
+.minecraft/resourcepacks
+.minecraft/logs
+.minecraft/saves
+.minecraft/downloads
+.minecraft/options.txt
+.idea
+logs
+
