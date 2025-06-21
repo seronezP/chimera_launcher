@@ -1,7 +1,6 @@
 import minecraft_launcher_lib
 import subprocess
 import threading
-from random import choice
 
 # Константы
 MINECRAFT_DIRECTORY = ''

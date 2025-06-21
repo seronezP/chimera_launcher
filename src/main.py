@@ -1,5 +1,6 @@
 from app_gui import App
 from launch_logic import Launcher
+from random import choice
 
 
 def main():
